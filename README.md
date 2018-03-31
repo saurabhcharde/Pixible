@@ -1,4 +1,4 @@
 # Pixible
-A Small Reverse Image Search Engine using Deep Learning. The UI is built using PyQt. 
+A Small Reverse Image Search Engine using Deep Learning. 
 
 ![alt text](https://github.com/saurabhcharde/Pixible/blob/master/sample.PNG)
